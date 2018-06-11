@@ -28,3 +28,7 @@ function sayHiToGrandma(string) {
   
 }
 
+=======
+  return(string).toLowerCase
+}
+>>>>>>> de990664bfda6488523480eeb170e859a0420b92
